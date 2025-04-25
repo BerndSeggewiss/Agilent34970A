@@ -1,0 +1,65 @@
+C:\Users\seggewissb\source\repos\TestSCPI\TestSCPI\bin\Debug\TestSCPI.exe.config
+C:\Users\seggewissb\source\repos\TestSCPI\TestSCPI\bin\Debug\TestSCPI.exe
+C:\Users\seggewissb\source\repos\TestSCPI\TestSCPI\bin\Debug\TestSCPI.pdb
+C:\Users\seggewissb\source\repos\TestSCPI\TestSCPI\bin\Debug\Ivi.Visa.dll
+C:\Users\seggewissb\source\repos\TestSCPI\TestSCPI\bin\Debug\Ivi.Visa.xml
+C:\Users\seggewissb\source\repos\TestSCPI\TestSCPI\obj\Debug\TestSCPI.csproj.AssemblyReference.cache
+C:\Users\seggewissb\source\repos\TestSCPI\TestSCPI\obj\Debug\TestSCPI.Form1.resources
+C:\Users\seggewissb\source\repos\TestSCPI\TestSCPI\obj\Debug\TestSCPI.Properties.Resources.resources
+C:\Users\seggewissb\source\repos\TestSCPI\TestSCPI\obj\Debug\TestSCPI.csproj.GenerateResource.cache
+C:\Users\seggewissb\source\repos\TestSCPI\TestSCPI\obj\Debug\TestSCPI.csproj.CoreCompileInputs.cache
+C:\Users\seggewissb\source\repos\TestSCPI\TestSCPI\obj\Debug\TestSCPI.csproj.Up2Date
+C:\Users\seggewissb\source\repos\TestSCPI\TestSCPI\obj\Debug\TestSCPI.exe
+C:\Users\seggewissb\source\repos\TestSCPI\TestSCPI\obj\Debug\TestSCPI.pdb
+C:\Users\seggewissb\Downloads\TestSCPI\TestSCPI\bin\Debug\TestSCPI.exe.config
+C:\Users\seggewissb\Downloads\TestSCPI\TestSCPI\bin\Debug\TestSCPI.exe
+C:\Users\seggewissb\Downloads\TestSCPI\TestSCPI\bin\Debug\TestSCPI.pdb
+C:\Users\seggewissb\Downloads\TestSCPI\TestSCPI\bin\Debug\Ivi.Visa.dll
+C:\Users\seggewissb\Downloads\TestSCPI\TestSCPI\bin\Debug\Ivi.Visa.xml
+C:\Users\seggewissb\Downloads\TestSCPI\TestSCPI\obj\Debug\TestSCPI.csproj.AssemblyReference.cache
+C:\Users\seggewissb\Downloads\TestSCPI\TestSCPI\obj\Debug\TestSCPI.Form1.resources
+C:\Users\seggewissb\Downloads\TestSCPI\TestSCPI\obj\Debug\TestSCPI.Properties.Resources.resources
+C:\Users\seggewissb\Downloads\TestSCPI\TestSCPI\obj\Debug\TestSCPI.csproj.GenerateResource.cache
+C:\Users\seggewissb\Downloads\TestSCPI\TestSCPI\obj\Debug\TestSCPI.csproj.CoreCompileInputs.cache
+C:\Users\seggewissb\Downloads\TestSCPI\TestSCPI\obj\Debug\TestSCPI.csproj.Up2Date
+C:\Users\seggewissb\Downloads\TestSCPI\TestSCPI\obj\Debug\TestSCPI.exe
+C:\Users\seggewissb\Downloads\TestSCPI\TestSCPI\obj\Debug\TestSCPI.pdb
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV2\TestSCPI\bin\Debug\TestSCPI.exe.config
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV2\TestSCPI\bin\Debug\TestSCPI.exe
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV2\TestSCPI\bin\Debug\TestSCPI.pdb
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV2\TestSCPI\bin\Debug\Ivi.Visa.dll
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV2\TestSCPI\bin\Debug\Ivi.Visa.xml
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV2\TestSCPI\obj\Debug\TestSCPI.csproj.AssemblyReference.cache
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV2\TestSCPI\obj\Debug\TestSCPI.Form1.resources
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV2\TestSCPI\obj\Debug\TestSCPI.Properties.Resources.resources
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV2\TestSCPI\obj\Debug\TestSCPI.csproj.GenerateResource.cache
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV2\TestSCPI\obj\Debug\TestSCPI.csproj.CoreCompileInputs.cache
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV2\TestSCPI\obj\Debug\TestSCPI.csproj.Up2Date
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV2\TestSCPI\obj\Debug\TestSCPI.exe
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV2\TestSCPI\obj\Debug\TestSCPI.pdb
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV3\TestSCPI\bin\Debug\TestSCPI.exe.config
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV3\TestSCPI\bin\Debug\TestSCPI.exe
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV3\TestSCPI\bin\Debug\TestSCPI.pdb
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV3\TestSCPI\bin\Debug\Ivi.Visa.dll
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV3\TestSCPI\bin\Debug\Ivi.Visa.xml
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV3\TestSCPI\obj\Debug\TestSCPI.csproj.AssemblyReference.cache
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV3\TestSCPI\obj\Debug\TestSCPI.Form1.resources
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV3\TestSCPI\obj\Debug\TestSCPI.Properties.Resources.resources
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV3\TestSCPI\obj\Debug\TestSCPI.csproj.GenerateResource.cache
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV3\TestSCPI\obj\Debug\TestSCPI.csproj.CoreCompileInputs.cache
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV3\TestSCPI\obj\Debug\TestSCPI.csproj.Up2Date
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV3\TestSCPI\obj\Debug\TestSCPI.exe
+U:\BODY_DATA\GROUPS\CC-MECHANICAL-DESIGN\user\SeggewissB\Tests\HPC Kühlung Auora\SW\VS 2022\Agilent34970A-NanotestCalibrationToolV3\TestSCPI\obj\Debug\TestSCPI.pdb
+C:\Users\seggewissb\Downloads\Agilent34970A - 4-Wire Resistor Measurement\TestSCPI\bin\Debug\TestSCPI.exe.config
+C:\Users\seggewissb\Downloads\Agilent34970A - 4-Wire Resistor Measurement\TestSCPI\bin\Debug\TestSCPI.exe
+C:\Users\seggewissb\Downloads\Agilent34970A - 4-Wire Resistor Measurement\TestSCPI\bin\Debug\TestSCPI.pdb
+C:\Users\seggewissb\Downloads\Agilent34970A - 4-Wire Resistor Measurement\TestSCPI\bin\Debug\Ivi.Visa.dll
+C:\Users\seggewissb\Downloads\Agilent34970A - 4-Wire Resistor Measurement\TestSCPI\bin\Debug\Ivi.Visa.xml
+C:\Users\seggewissb\Downloads\Agilent34970A - 4-Wire Resistor Measurement\TestSCPI\obj\Debug\TestSCPI.csproj.AssemblyReference.cache
+C:\Users\seggewissb\Downloads\Agilent34970A - 4-Wire Resistor Measurement\TestSCPI\obj\Debug\TestSCPI.Form1.resources
+C:\Users\seggewissb\Downloads\Agilent34970A - 4-Wire Resistor Measurement\TestSCPI\obj\Debug\TestSCPI.Properties.Resources.resources
+C:\Users\seggewissb\Downloads\Agilent34970A - 4-Wire Resistor Measurement\TestSCPI\obj\Debug\TestSCPI.csproj.GenerateResource.cache
+C:\Users\seggewissb\Downloads\Agilent34970A - 4-Wire Resistor Measurement\TestSCPI\obj\Debug\TestSCPI.csproj.CoreCompileInputs.cache
+C:\Users\seggewissb\Downloads\Agilent34970A - 4-Wire Resistor Measurement\TestSCPI\obj\Debug\TestSCPI.csproj.Up2Date
+C:\Users\seggewissb\Downloads\Agilent34970A - 4-Wire Resistor Measurement\TestSCPI\obj\Debug\TestSCPI.exe
+C:\Users\seggewissb\Downloads\Agilent34970A - 4-Wire Resistor Measurement\TestSCPI\obj\Debug\TestSCPI.pdb
